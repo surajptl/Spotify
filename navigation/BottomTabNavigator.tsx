@@ -68,7 +68,7 @@ function TabOneNavigator() {
       <TabOneStack.Screen
         name="HomeScreen"
         component={HomeScreen}
-        options={{ headerTitle: 'Bhojpuria Spotify' }}
+        options={{ headerTitle: 'Spotify' }}
       />
     </TabOneStack.Navigator>
   );
