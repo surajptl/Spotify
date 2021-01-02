@@ -4,4 +4,7 @@ We will start building the Spotify clone from scratch, starting from setting up 
 
 For the backend, we will be using AWS Amplify, which is an amazing combination of tools and services from AWS, that helps us build mobile and web applications faster. It offers pre-made authentication components and flows, database, API (REST and GraphQL), storage, and much more. 
 
-![](assets/readme_images/first_screen.jpeg)
+
+
+## Homepage WIP
+![](assets/readme_images/all_cat.jpeg)
